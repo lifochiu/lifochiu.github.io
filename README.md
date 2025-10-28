@@ -11,4 +11,3 @@ A website which running as X plateform
 
 # Authors
 - Li Feng Chiu
-- Leonardo
